@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "7zip crack",
+    "version": "1.0",
+    "description": "Provides full functionality without premium on 7zip.com",
+    "permissions": ["scripting"],
+    "content_scripts": [
+        {
+            "matches": ["https://*.7zap.com/*"],
+            "js": ["content.js"],
+            "run_at": "document_idle"
+        }
+    ],
+    "icons": {
+    }
+}
