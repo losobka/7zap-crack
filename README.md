@@ -1,5 +1,5 @@
 # 7zip crack
-Provides full functionality without premium on 7zip.com
+Provides full functionality without premium on 7zap.com
 
 # How to install on Firefox
 1. Open Firefox and enter `about:debugging` in the address bar.
