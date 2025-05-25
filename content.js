@@ -23,7 +23,7 @@
                         const name = results[1];
                         const code = results[2];
                         span.onclick = function (event) {
-                            window.open('https://7zap.com/pl/part/FORD/" + code + "/','_blank');
+                            window.open('https://7zap.com/pl/part/FORD/' + code + '/','_blank');
 
                             return true;
                         };
