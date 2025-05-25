@@ -6,4 +6,4 @@ Provides full functionality without premium on 7zip.com
 
 2. Click: `Load Temporary Add-on`
 
-3. Select the manifest.json file from the `7zip-crack` folder.
+3. Select the `manifest.json` file from the `mozilla.firefox.extension.7zap-crack` folder.
